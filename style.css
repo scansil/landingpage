@@ -1,0 +1,60 @@
+body {
+	background-color: rgb(245, 245, 245);
+	color: green;
+	font-size: 15px; 
+	font-family: helvetica;
+	margin: 0px
+	}
+
+#banner {
+	text-align: center;
+	background-image: url("https://picsum.photos/1300/600/?random");
+	background-size: cover;
+	padding: 150px;
+	color: white;
+	text-shadow: 1px 1px 1px black;
+}
+
+h1 {
+  font-family: Trebuchet MS;
+  color: orange;
+  font-weight: light;
+  font-size: 70px;
+}
+
+#banner h1 {
+	color: white;
+	font-size:35px;
+}
+
+.card {
+	text-align: center;
+	padding: 30px;
+	font-weight: lighter;
+}
+h2 {
+  font-family: Courier;
+  color: red;
+  font-weight: light;
+  font-size: 28px;
+}
+a {
+	color:blue;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: none;
+	color:lightblue;
+}
+
+#footer {
+	background-color: black;
+	padding: 20px;
+	color: white;
+
+}
+.social {
+	color:white;
+	font-size: 25px;
+}
